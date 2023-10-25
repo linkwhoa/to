@@ -1,0 +1,2 @@
+Encode the URL in base64 (https://www.base64encode.org/)
+Use this link template: https://linkwhoa.github.io/to?l=<YOUR ENCODED TEXT>
